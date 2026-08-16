@@ -34,3 +34,4 @@ C:\Users\DELL\CSharpProjects\StudentCRUD\obj\Debug\net10.0\refint\StudentCRUD.dl
 C:\Users\DELL\CSharpProjects\StudentCRUD\obj\Debug\net10.0\StudentCRUD.pdb
 C:\Users\DELL\CSharpProjects\StudentCRUD\obj\Debug\net10.0\StudentCRUD.genruntimeconfig.cache
 C:\Users\DELL\CSharpProjects\StudentCRUD\obj\Debug\net10.0\ref\StudentCRUD.dll
+C:\Users\DELL\CSharpProjects\StudentCRUD\obj\Debug\net10.0\StudentCRUD.sourcelink.json
